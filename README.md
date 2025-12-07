@@ -3,7 +3,7 @@
 - 🎯 Este repositório guarda as atividades que realizei durante o meu primeiro ano no curso de Desenvolvimento de Sistemas - Articulado Médio Superior.
 - 🧭 Cada matéria é uma branch diferente, para facilitar a organização delas. 
 
-Estas são as atividades do meu ano mais importante na ETEC ⭐
+Estas são as atividades do meu ano preferido de ETEC ❤️
 
 <!-- SESSÃO DO ÍNDICE DAS ATIVIDADES ⬇️ -->
 ## 📇 Sumário :
